@@ -68,7 +68,7 @@ const StyledWrapper = styled(Link)`
     margin-bottom: 1.5rem;
     border-radius: 1rem;
     background-color: ${({ theme }) =>
-      theme.scheme === "light" ? theme.colors.indigo4 : theme.colors.indigo4};
+      theme.scheme === "light" ? theme.colors.purple6 : theme.colors.purple6};
     transition-property: box-shadow;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-duration: 300ms;

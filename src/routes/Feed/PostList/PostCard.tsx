@@ -67,7 +67,6 @@ const StyledWrapper = styled(Link)`
     position: relative;
     margin-bottom: 1.5rem;
     border-radius: 1rem;
-    // background-color: ${theme.colors.indigo4};
     background-color: ${({ theme }) =>
       theme.scheme === "light" ? theme.colors.indigo4 : theme.colors.indigo4};
     transition-property: box-shadow;

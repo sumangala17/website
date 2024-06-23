@@ -3,6 +3,8 @@ import {
   blue,
   red,
   green,
+  purple,
+  purpleDark,
   grayDark,
   blueDark,
   redDark,

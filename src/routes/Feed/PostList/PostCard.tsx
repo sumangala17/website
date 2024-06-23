@@ -68,7 +68,7 @@ const StyledWrapper = styled(Link)`
     margin-bottom: 1.5rem;
     border-radius: 1rem;
     background-color: ${({ theme }) =>
-      theme.scheme === "light" ? theme.colors.purple6 : theme.colors.purple6};
+      theme.scheme === "light" ? "white" : theme.colors.purple6};
     transition-property: box-shadow;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-duration: 300ms;
@@ -91,7 +91,7 @@ const StyledWrapper = styled(Link)`
     > .thumbnail {
       position: relative;
       width: 100%;
-      background-color: ${({ theme }) => theme.colors.purple6}; //theme.colors.gray2};
+      background-color: ${({ theme }) => theme.colors.gray2};
       padding-bottom: 66%;
 
       @media (min-width: 1024px) {

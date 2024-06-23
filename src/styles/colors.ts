@@ -22,6 +22,7 @@ export const colors = {
     ...blue,
     ...red,
     ...green,
+    ...purple,
   },
   dark: {
     ...indigoDark,
@@ -29,5 +30,6 @@ export const colors = {
     ...blueDark,
     ...redDark,
     ...greenDark,
+    ...purpleDark,
   },
 }

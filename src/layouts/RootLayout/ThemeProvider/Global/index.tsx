@@ -13,7 +13,7 @@ export const Global = () => {
           margin: 0;
           padding: 0;
           color: ${theme.colors.purple12}; //theme.colors.gray12
-          background-color: ${theme.colors.purple3};
+          background-color: ${theme.colors.purple12};
           font-family: ${pretendard.style.fontFamily};
           font-weight: ${pretendard.style.fontWeight};
           font-style: ${pretendard.style.fontStyle};

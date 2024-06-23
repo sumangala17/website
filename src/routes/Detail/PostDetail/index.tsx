@@ -51,7 +51,7 @@ const StyledWrapper = styled.div`
   border-radius: 1.5rem;
   max-width: 56rem;
   background-color: ${({ theme }) =>
-    theme.scheme === "light" ? theme.colors.gray6 : theme.colors.gray6};
+    theme.scheme === "light" ? theme.colors.gray3 : theme.colors.gray3};
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
     0 2px 4px -1px rgba(0, 0, 0, 0.06);
   margin: 0 auto;

@@ -3,7 +3,7 @@ const CONFIG = {
   profile: {
     name: "Sumangala Patki",
     image: "/grad pic.jpeg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Robot Manipulation Engineer",
+    role: "Robot Learning @ UC San Diego",
     bio: "I help robots reason and plan",
     email: "spatki@ucsd.edu",
     linkedin: "sumangala-patki",
@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "Blog",
     description: "welcome to my blog!",
-    theme: "dark",
+    theme: "light",
   },
 
   // CONFIG configration (required)
